@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply scroll-smooth bg-gray-50 text-gray-900 antialiased;
+  }
+  button {
+    @apply cursor-pointer transition-all active:scale-95;
+  }
+}
