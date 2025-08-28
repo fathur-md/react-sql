@@ -1,6 +1,6 @@
 # React-SQL
 
-A simple fullstack web app for learning backend and frontend development with GitHub. Built with React (frontend), Node.js/Express (backend), and SQL database integration.
+A simple fullstack web app for learning backend and frontend development. Built with React (frontend), Node.js/Express (backend), and SQL database integration.
 
 ## How to Run
 
